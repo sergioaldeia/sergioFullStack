@@ -1,0 +1,1 @@
+import somar from "./opercoes/somar.js";
